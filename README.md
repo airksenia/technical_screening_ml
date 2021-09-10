@@ -1,12 +1,9 @@
-## Technical screening for Machine Learning Engineer:
+# Weclome to the Airspace Machine Learning Engineer Technical Screening 
 
-My name is Ksenia Palke - a data science manager at Airspace. I am excited that you made it to the technical screening in our hiring process. This little exercise intentionally gives very little data - I would like to get a taste of your coding skills and ability to think, rather than ask for a lot of time investment. 
+This screening consists of two problems which can be found in the `problem_1` and `problem_2` directories. Each exercise is designed to give us a taste of your coding skills and ability to think through problems. These problems should not be a large time investment. Please follow the guidelines below and feel free to ask any questions as needed.
 
-The `order_records.log` file consists of json logs for each order, each having weight and volume, as well as an indication if the package information is either in imperial units (pounds and inches cubed) or not (kilograms and centimeters cubed), delivery/pickup zips, expense, company_id and driver type and a service_line of the order. 
+1. The directions for each problem are in the `README.md` in each problem's directory.
+2. These two problems are seperate from each other and should be treated as such.
+3. Each problem specifically states what is expected for the submission. Please email it back to us when ready.
 
-The outcome of this project is very open ended. I want you to read, inspect and clean the data, develop any interesting or useful insights. You do not have to use all the fields, but pick an area of your focus. The methods you use are really up to you. The final deliverable could be a notebook containing your EDA, a simple machine learning model, etc.
-
-Feel free to email me with any questions.
-
-
-
+Good luck!
