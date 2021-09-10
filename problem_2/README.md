@@ -2,8 +2,8 @@
 
 ## Part a
 The `data_analysis.py` script performs some analysis on the `data.csv` data and prints out the result. This script, while delivering the desired result, is very poorly written and should be cleaned up and refactored. 
-1. The goal is to create `data_analysis_refactored.py` file that runs and prints the exact same output as the `data_analysis.py` code.
-2. The keys for the `results` dictionary must not be changed.
+1. The goal is to rewrite the code in the original file and save it as `data_analysis_refactored.py` file. Is should run (`python3 data_analysis_refactored.py`) and print the exact same output as the `data_analysis.py` code.
+2. Strive to deliver the most elegant and readable code you can.
 
 The objective of this exercise is to test your code review / refactoring / styling abilities. We are not trying to be tricky and there are no known issues with this code. If something is confusing or apears wrong, please feel free to ask a question.
 
