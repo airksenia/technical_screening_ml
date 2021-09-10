@@ -5,5 +5,6 @@ This screening consists of two problems which can be found in the `problem_1` an
 1. The directions for each problem are in the `README.md` in each problem's directory.
 2. These two problems are seperate from each other and should be treated as such.
 3. Each problem specifically states what is expected for the submission. Please email it back to us when ready.
+4. Please do not fork this repo.
 
 Good luck!
