@@ -8,6 +8,6 @@ The `data_analysis.py` script performs some analysis on the `data.csv` data and 
 The objective of this exercise is to test your code review / refactoring / styling abilities. We are not trying to be tricky and there are no known issues with this code. If something is confusing or apears wrong, please feel free to ask a question.
 
 ## Part b
-Question: One might say that as long as code does the desired job, it is irrelevant how it is written. Please share your thoughts on why is it important to have your code to be readable, simple and clean. Share your answer as a `question2.txt`.
+Question: One might say that as long as code does the desired job, it is irrelevant how it is written. Please share your thoughts on why is it important to have your code to be readable, simple and clean. What makes code elagant and readable? Share your answer as a `question2.txt`.
 
 Good Luck!
