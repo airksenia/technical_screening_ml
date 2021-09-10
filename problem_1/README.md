@@ -1,8 +1,8 @@
 # Problem 1
 
-The `order_records.log` file consists of json logs for each order. Each log has the order's weight and volume, as well as an indication if the package information is either in imperial units (pounds and inches cubed) or not (kilograms and centimeters cubed), the delivery and pickup zip codes, the expense, the company id, the driver type, and the service_line.
+The `order_records.log` file consists of JSON logs for each order. Each log has the order's weight and volume, as well as an indication if the package information is either in imperial units (pounds and inches cubed) or not (kilograms and centimeters cubed), the delivery and pickup zip codes, the expense, the company id, the driver type, and the service_line.
 
-For this exercise, we want you to read in the data, clean it, transform it into the formats outlined below, and save the processed data. The methods you use are up to you but, at a minimum, your solution should satify the following items:
+For this exercise, we want you to read in the data, clean it, transform it into the formats outlined below, and save the processed data. The methods you use are up to you but, at a minimum, your solution should satisfy the following items:
 
 1. Your work should include an executable python file named `main.py` which runs your entire solution to this exercise.
 2. Your `main.py` must have the `boolean` input `imperial_units` which defines the units in which the processed data must be saved.
